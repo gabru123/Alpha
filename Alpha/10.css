@@ -1,0 +1,50 @@
+h1{
+    display: flex;
+    display: inline;
+}
+
+#header
+{
+    color: red;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px 14px 14px;
+    width: 100%;
+    margin-left: -8px;
+    margin-top: -10px;
+  
+    
+}
+
+
+span
+{
+    font-weight: 100;
+}
+
+button
+{
+    color: red;
+    background-color: transparent;
+    border: 2px solid #c9c7c7;
+    width: 90px ;
+    height: 30px;
+    border-radius: 6px; 
+    border-color: red; 
+    
+
+}
+
+button:hover{
+    color: antiquewhite;
+}
+
+#a{
+  margin-left: 0.5cm;
+}
+
+#b{
+    margin-left: 0.5cm;
+  }

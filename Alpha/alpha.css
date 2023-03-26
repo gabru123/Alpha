@@ -1,0 +1,42 @@
+#header div{
+    display: inline-block;
+}
+#header div ul li{
+    display: inline-block;
+    font-size: 13pt;
+    padding-left: 25px;
+   
+}
+
+body{
+ background-image: url(./images/banner.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header{
+    color: white;
+}
+button{
+    color: #fff;
+    background-color: transparent;
+    
+    border: 2px solid #c9c7c7;
+    width: 80px ;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+
+#header div h1{
+ font-size: 12pt;
+}
+
+#header #left{
+    width: 78%;
+}
+
+#header div h1 span{
+    font-weight: 100;
+}
